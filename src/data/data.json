@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "titulo": "Zapatillas adidas",
+        "descripcion": "Handball Spezial Mujer Sintético",
+        "categoria": "zapatillas",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf9060890/products/ADIE3698/ADIE3698-1.JPG",
+        "precio": 189999,
+        "stock": 10
+    },
+    {
+        "id": 2,
+        "titulo": "Zapatillas Puma",
+        "descripcion": "Zapatillas Puma Suede XL",
+        "categoria": "zapatillas",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dwf6897b1d/products/PU397370-01/PU397370-01-1.JPG",
+        "precio": 159999,
+        "stock": 10
+    },
+    {
+        "id": 3,
+        "titulo": "Zapatillas adidas",
+        "descripcion": "Adi2000 Hombre",
+        "categoria": "zapatillas",
+        "imagen": "https://www.moov.com.ar/on/demandware.static/-/Sites-365-dabra-catalog/default/dw9f5259b9/products/ADGV9544/ADGV9544-1.JPG",
+        "precio": 189999,
+        "stock": 10
+    },
+    {
+        "id": 4,
+        "titulo": "Remera Boxy City Black.",
+        "descripcion": "Remera de corte boxy con manga ranglan.",
+        "categoria": "remeras",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/149BEED4-F381-425C-A814-0E7EFD369320-500x667.jpeg",
+        "precio": 23000,
+        "stock": 10
+    },
+    {
+        "id": 5,
+        "titulo": "Buzo Classik Negro.",
+        "descripcion": "Buzo de friza de algodón peinado. ",
+        "categoria": "buzos",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/72EE028C-1690-49EA-AAC6-697C5A85483D-500x667.jpeg",
+        "precio": 36000,
+        "stock": 10
+    },
+    {
+        "id": 6,
+        "titulo": "Remera Boxy Bosque Verde Verdebosque",
+        "descripcion": "Remera de corte boxy con manga ranglan.",
+        "categoria": "remeras",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/B3EB2B37-AB50-4B62-A800-774128DCBE49-500x667.jpeg",
+        "precio": 23000,
+        "stock": 10
+    },
+    {
+        "id": 7,
+        "titulo": "Buzo Classik Crema.",
+        "descripcion": "Buzo de friza de algodón peinado. ",
+        "categoria": "buzos",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/A44406C4-F843-47C4-A860-06A45B6BF5C2-scaled.jpeg",
+        "precio": 36000,
+        "stock": 10
+    },
+    {
+        "id": 8,
+        "titulo": "Lompa Basic",
+        "descripcion": "Lompa finito bien de media temporada.",
+        "categoria": "pantalones",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/E2012062-E58C-4FBA-AA2A-CF6CF7C3D404-500x667.jpeg",
+        "precio": 14999,
+        "stock": 10
+    },
+    {
+        "id": 9,
+        "titulo": "Short tipo basket",
+        "descripcion": "Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante.",
+        "categoria": "pantalones",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/82D6CA0F-87AB-4968-A5CA-67C20F1EFD7D.jpeg",
+        "precio": 25000,
+        "stock": 10
+    },
+    {
+        "id": 10,
+        "titulo": "Remera NotKIDS.",
+        "descripcion": "Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "categoria": "remeras",
+        "imagen": "https://notfancy.com.ar/wp-content/uploads/8A1BB462-39C3-407D-A365-913719B6CE67-500x667.jpeg",
+        "precio": 15999,
+        "stock": 10
+    }
+]
